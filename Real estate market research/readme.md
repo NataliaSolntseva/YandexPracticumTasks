@@ -10,7 +10,7 @@
 
 **Используемые технологии**: Python, библиотеки Pandas, Matplotlib, Numpy
 
-**Тетрадка проекта**: [доступна по ссылке]()
+**Тетрадка проекта**: [доступна по ссылке](https://github.com/NataliaSolntseva/YandexPracticumTasks/blob/9ff62b65c0e6c819e4c22690c30d1c97200dfc76/Real%20estate%20market%20research/Apartments_Sales_Research.ipynb)
 
 **Лицензия распространения кода проекта**: Apache License 2.0 
 
