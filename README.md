@@ -3,7 +3,7 @@
 
 | Название проекта | Описание проекта | Используемые технологии 
 | --- | --- | --- |
-| [Исследование объявлений о продаже квартир](https://github.com/NataliaSolntseva/YandexPracticumTasks/tree/cb3f5d5e273eba5fb07fb2686ea8e5b02b5363ed/Real%20estate%20market%20research) | Выявление параметров, влияющих на стоимость квартир Санкт-Петербурга и его окрестностях | Python, библиотеки Pandas, Matplotlib, Numpy |
+| [Исследование объявлений о продаже квартир](https://github.com/NataliaSolntseva/YandexPracticumTasks/tree/main/Real%20estate%20market%20research) | Выявление параметров, влияющих на стоимость квартир Санкт-Петербурга и его окрестностях | Python, библиотеки Pandas, Matplotlib, Numpy |
 | [Исследование данных о российском кинопрокате](https://github.com/NataliaSolntseva/YandexPracticumTasks/blob/main/RF_Cinema_Research.ipynb) | Выявление текущих трендов кинопроката и насколько интересны зрителю фильмы, которые получили государственную поддержку | Python, библиотеки Pandas, Matplotlib, Numpy |
 | [Исследование рынка заведений общественного питания](https://colab.research.google.com/drive/1eKuM7qow3vOaVqknuhZzOQdbBb_Wd4gn?usp=sharing) (т.к. библиотека Plotly не поддерживается GitHub, то блокнот находится в Colab)| Выявление текущих трендов общественного питания и определение критериев выбора места для открытия нового заведения | Python, библиотеки Pandas, Matplotlib, Numpy, Seaborn, Plotly, Folium |
 | [Анализ взаимодействия пользователей с карточками Яндекс.Дзен](https://github.com/NataliaSolntseva/YandexPracticumTasks/blob/main/Yandex_Gen_Research.ipynb) | Построение дашборда и подготовка презентации с результатами исследования | Python, библиотеки Pandas, sqlalchemy; Tableau; Keynote/PowerPoint |
