@@ -8,7 +8,7 @@
 
 **Объект исследования**: Рынок заведений общественного питания в Москве
 
-**Используемые технологии**: Python, библиотеки Pandas, Matplotlib, Numpy
+**Используемые технологии**: Python, библиотеки Pandas, Matplotlib, Numpy, Seaborn, Plotly, Folium
 
 **Тетрадка проекта**: [доступна по ссылке](https://colab.research.google.com/drive/1eKuM7qow3vOaVqknuhZzOQdbBb_Wd4gn?usp=sharing#scrollTo=16761384)
 
