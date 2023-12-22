@@ -10,7 +10,7 @@
 
 **Используемые технологии**: Python, библиотеки Pandas, Matplotlib, Numpy
 
-**Тетрадка проекта**: [доступна по ссылке]()
+**Тетрадка проекта**: [доступна по ссылке](https://github.com/NataliaSolntseva/YandexPracticumTasks/blob/b85fc4b1179729dbb516cd5bc5815df450979ece/RF%20Cinema%20Research/RF_Cinema_Research.ipynb)
 
 **Лицензия распространения кода проекта**: Apache License 2.0 
 
