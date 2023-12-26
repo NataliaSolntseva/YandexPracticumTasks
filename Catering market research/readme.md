@@ -10,14 +10,17 @@
 
 **Используемые технологии**: Python, библиотеки Pandas, Matplotlib, Numpy, Seaborn, Plotly, Folium
 
-**Тетрадка проекта**: [доступна по ссылке](https://colab.research.google.com/drive/1eKuM7qow3vOaVqknuhZzOQdbBb_Wd4gn?usp=sharing#scrollTo=16761384)
-
 **Лицензия распространения кода проекта**: Apache License 2.0 
 
 **Задачи, которые были решены в ходе исследования**:
 - загрузка датасета с данными о заведениях общественного питания города Москвы
 - выполнение предобработки данных
 - проведение предметного анализа данных
+- подготовка презентации с результатами исследования
+  
+**Тетрадка проекта**: [доступна по ссылке](https://colab.research.google.com/drive/1eKuM7qow3vOaVqknuhZzOQdbBb_Wd4gn?usp=sharing#scrollTo=16761384)
+
+**Презентация**: [доступна по ссылке] (https://disk.yandex.ru/d/xntSuq30GqLfOw)
 
 **Примеры графиков, построенных в ходе исследования**:
 
