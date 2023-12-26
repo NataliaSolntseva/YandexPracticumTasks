@@ -10,7 +10,7 @@
 
 **Используемые технологии**: Python, библиотеки Pandas, Matplotlib, Numpy, Seaborn
 
-**Тетрадка проекта**: [доступна по ссылке]()
+**Тетрадка проекта**: [доступна по ссылке](https://github.com/NataliaSolntseva/YandexPracticumTasks/blob/18a67dfce4cfcf83b0f151363d1a4814fe72cb99/Attraction%20Eff%20Research/Attraction_Eff_Research.ipynb)
 
 **Лицензия распространения кода проекта**: Apache License 2.0 
 
