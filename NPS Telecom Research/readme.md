@@ -10,7 +10,7 @@
 
 **Используемые технологии**: Python, библиотеки Pandas, sqlalchemy; Tableau; Keynote/PowerPoint
 
-**Тетрадка проекта**: [доступна по ссылке]()
+**Тетрадка проекта**: [доступна по ссылке](https://github.com/NataliaSolntseva/YandexPracticumTasks/blob/c8d04d29236f5b97ddf53ef7fb3c5791f27d6131/NPS%20Telecom%20Research/NPS_Telecom_Research.ipynb)
 
 **Дашборд**: [доступен по ссылке](https://public.tableau.com/app/profile/natalia7606/viz/Project2_16757061423070/DashNPS?publish=yes)
 
