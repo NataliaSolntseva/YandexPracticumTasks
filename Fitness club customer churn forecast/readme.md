@@ -10,7 +10,7 @@
 
 **Используемые технологии**: Python, библиотеки Pandas, Matplotlib, Numpy, Seaborn, Scipy, Sklearn, Itertools
 
-**Тетрадка проекта**: [доступна по ссылке]()
+**Тетрадка проекта**: [доступна по ссылке](https://github.com/NataliaSolntseva/YandexPracticumTasks/blob/dbfa714f178b4e62cfc807edb8ebcd5d3e5669f6/Fitness%20club%20customer%20churn%20forecast/Fitness_club_customer_churn_forecast.ipynb)
 
 **Лицензия распространения кода проекта**: Apache License 2.0 
 
