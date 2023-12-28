@@ -10,7 +10,7 @@
 
 **Используемые технологии**: Python, библиотеки Pandas, Matplotlib, Numpy, Seaborn, Plotly, Datetime, Scipy
 
-**Тетрадка проекта**: [доступна по ссылке]()
+**Тетрадка проекта**: [доступна по ссылке](https://github.com/NataliaSolntseva/YandexPracticumTasks/blob/b0cbc8f4f86004fddaf2e3df715e5e6aef664e34/AB%20test%20rec%20system%20improve/AB_test_rec_system_improve.ipynb)
 
 **Лицензия распространения кода проекта**: Apache License 2.0 
 
