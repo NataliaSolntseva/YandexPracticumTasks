@@ -10,7 +10,7 @@
 
 **Используемые технологии**: Python, библиотеки Pandas, Matplotlib, Numpy, Seaborn, Scipy, Sklearn
 
-**Тетрадка проекта**: [доступна по ссылке]()
+**Тетрадка проекта**: [доступна по ссылке](https://github.com/NataliaSolntseva/YandexPracticumTasks/blob/0729105fc4b380b7738d6aec394c8f5db8d116e1/Analysis%20of%20bank%20customer%20churn/Analysis_of_bank_customer_churn.ipynb)
 
 **Презентация по проекту**: [доступна по ссылке](https://disk.yandex.ru/d/FFmnELVH94ZIQg) 
 
